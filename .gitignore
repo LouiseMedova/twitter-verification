@@ -1,0 +1,6 @@
+*.r1cs
+*.sym
+*.lock
+node_modules
+TwitterVerifier_cpp
+TwitterVerifier_js
